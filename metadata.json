@@ -1,0 +1,5 @@
+{
+  "name": "CryptoPulse AI Trading Bot",
+  "description": "A sophisticated cryptocurrency trading dashboard that monitors real-time market signals using RSI and EMA indicators, powered by Gemini AI for deep market sentiment analysis.",
+  "requestFramePermissions": []
+}
